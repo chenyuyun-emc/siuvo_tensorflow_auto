@@ -19,8 +19,6 @@ Prerequisites
      3. install tensorflow: pip install --upgrade $TF_BINARY_URL
      4. need to install git: yum install git
 
-    about the details of install tensorflow , please refer this page: https://www.tensorflow.org/versions/r0.9/get_started/os_setup.html
-
 
 
   For Work Machine:
